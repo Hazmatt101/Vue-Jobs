@@ -1,4 +1,6 @@
 # vue-jobs
+This is a very simple Vue application that demonstrates a typical Vue web sign-up system. Built using Vue 3.
+
 
 ## Project setup
 ```
